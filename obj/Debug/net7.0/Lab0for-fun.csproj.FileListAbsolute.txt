@@ -1,0 +1,15 @@
+C:\Users\micha\code\Lab0for-fun\bin\Debug\net7.0\Lab0for-fun.exe
+C:\Users\micha\code\Lab0for-fun\bin\Debug\net7.0\Lab0for-fun.deps.json
+C:\Users\micha\code\Lab0for-fun\bin\Debug\net7.0\Lab0for-fun.runtimeconfig.json
+C:\Users\micha\code\Lab0for-fun\bin\Debug\net7.0\Lab0for-fun.dll
+C:\Users\micha\code\Lab0for-fun\bin\Debug\net7.0\Lab0for-fun.pdb
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.csproj.AssemblyReference.cache
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.AssemblyInfoInputs.cache
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.AssemblyInfo.cs
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.csproj.CoreCompileInputs.cache
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.dll
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\refint\Lab0for-fun.dll
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.pdb
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\Lab0for-fun.genruntimeconfig.cache
+C:\Users\micha\code\Lab0for-fun\obj\Debug\net7.0\ref\Lab0for-fun.dll

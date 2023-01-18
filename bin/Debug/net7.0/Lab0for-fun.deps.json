@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab0for-fun/1.0.0": {
+        "runtime": {
+          "Lab0for-fun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab0for-fun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
